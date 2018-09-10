@@ -1,0 +1,95 @@
+1536587836213	geckodriver	INFO	geckodriver 0.21.0
+1536587836224	geckodriver	INFO	Listening on 127.0.0.1:55160
+1536587839132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjm\\AppData\\Local\\Temp\\rust_mozprofile.3xCw8MrTV5Pr"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1536587843871	Marionette	INFO	Listening on port 55169
+1536587844112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536587844148	Marionette	DEBUG	[6442450945] Frame script loaded
+1536587844303	Marionette	DEBUG	[6442450945] Frame script registered
+1536587844382	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536587844718	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1536587844934	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://inventwithpython.com/
+1536587846673	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://inventwithpython.com/
+[Parent 8108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11260, Chrome_ChildThread] WAR[Child 8144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8144, C[Parent 8108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4472, Chro1536587983122	Marionette	INFO	Stopped listening on port 55169
+[GPU 2148, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://inventwithpython.com/
+1536587883782	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://inventwithpython.com/
+[Child 13596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13596, JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+[Parent 9932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1408, Chr1536587887688	Marionette	INFO	Stopped listening on port 55222
+[GPU 12352, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536588006933	geckodriver	INFO	geckodriver 0.21.0
+1536588006941	geckodriver	INFO	Listening on 127.0.0.1:55313
+1536588009989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjm\\AppData\\Local\\Temp\\rust_mozprofile.cRz3g15ginKu"
+1536588013725	Marionette	INFO	Listening on port 55322
+1536588013847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536588013887	Marionette	DEBUG	[6442450945] Frame script loaded
+1536588013889	Marionette	DEBUG	[6442450945] Frame script registered
+1536588013906	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536588014402	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1536588015002	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://inventwithpython.com/
+1536588016498	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://inventwithpython.com/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 5492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5492, Chro[Parent 8776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8752, Ch1536588080505	Marionette	INFO	Stopped listening on port 55322
+[GPU 12656, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536588083054	geckodriver	INFO	geckodriver 0.21.0
+1536588083063	geckodriver	INFO	Listening on 127.0.0.1:55365
+1536588086124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjm\\AppData\\Local\\Temp\\rust_mozprofile.Tsne8GeNUPt9"
+1536588090902	Marionette	INFO	Listening on port 55380
+1536588091074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536588091121	Marionette	DEBUG	[6442450945] Frame script loaded
+1536588091124	Marionette	DEBUG	[6442450945] Frame script registered
+1536588091139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536588091460	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1536588092167	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://inventwithpython.com/
+1536588093549	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://inventwithpython.com/
+[Parent 12596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch[Child 392annel_win.cc,, Chrome_Chi line 346
+ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 392, [Parent 12596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536588648046	Marionette	INFO	Stopped listening on port 55380
+[GPU 6072
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
