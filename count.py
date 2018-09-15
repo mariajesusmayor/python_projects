@@ -7,4 +7,3 @@ def fizz_count(x):
 
 
 print(fizz_count(["fizz","cat","fizz", "cat", "fizz"]))
-

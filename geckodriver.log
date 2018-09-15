@@ -93,6 +93,7 @@ ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr
 [GPU 6072
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+<<<<<<< HEAD
 1536667971833	geckodriver	INFO	geckodriver 0.21.0
 1536667972055	geckodriver	INFO	Listening on 127.0.0.1:61053
 1536667975113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjm\\AppData\\Local\\Temp\\rust_mozprofile.dYXBPaYKkT6I"
@@ -286,3 +287,5 @@ dThread] W[ChiARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/
 [GPU 15276,
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+=======
+>>>>>>> a3c79e1e64543b0d6f078d5527564506ecdfc6db
