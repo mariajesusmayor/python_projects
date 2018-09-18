@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 name = 'Alice'
 if name == 'Alice':
     print ('Hi Alice')
 print ('Done')
+=======
+name = 'Alice'
+if name == 'Alice':
+    print ('Hi Alice')
+print ('Done')
+>>>>>>> caa7a19daf82ef17cbd26673297aabeac62a1417
 =======
 name = 'Alice'
 if name == 'Alice':
